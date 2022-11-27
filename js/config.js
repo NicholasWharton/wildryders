@@ -5,6 +5,6 @@ window._config = {
         region:             'us-east-1'          // e.g. us-east-2
     },
     api: {
-        invokeUrl:          'https://70v8qk0ml1.execute-api.us-east-2.amazonaws.com/prod'          // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
+        invokeUrl:          'https://e0z9nzcaqj.execute-api.us-east-1.amazonaws.com/prod'          // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
     }
 };
